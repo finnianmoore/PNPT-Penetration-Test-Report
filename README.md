@@ -1,3 +1,5 @@
+![PNPT Certified](https://img.shields.io/badge/PNPT-Certified-0078D4?style=for-the-badge&logo=linux&logoColor=white)
+
 # PNPT Penetration Test Report
 
 ## Overview
