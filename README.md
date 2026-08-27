@@ -59,7 +59,7 @@ The assessment successfully achieved full domain compromise through a multi-stag
 
 ## Verification
 
-- [View Certificate](./certificate/Finnian-Moore-PNPT-Certificate.pdf)
+- [View](https://github.com/finnianmoore/Security-Engineering-Projects/blob/main/certificates/Finnian-Moore-PNPT-Certificate.pdf)
 - [Verify on TCM Security's Website](https://tcm-sec.com/verify)
 
 ---
